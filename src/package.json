@@ -1,0 +1,28 @@
+{
+  "name": "angular-codable-timeline",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaschwab/angular-codable-timeline"
+  },
+  "author": {
+    "name": "Michail Schwab",
+    "email": "me@michaschwab.de"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaschwab/angular-codable-timeline/issues"
+  },
+  "module": "angular-codable-timeline.js",
+  "typings": "angular-codable-timeline.d.ts",
+  "peerDependencies": {
+    "@types/d3": "^4.9.0",
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4",
+    "d3": "^4.4.1"
+  }
+}
